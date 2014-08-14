@@ -5,7 +5,6 @@
  *      Author: wikibootup
  */
 #include "Triangle.h"
-using namespace std;
 
 Triangle::Triangle() {
 	// TODO Auto-generated constructor stub
