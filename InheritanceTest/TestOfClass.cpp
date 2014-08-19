@@ -9,7 +9,7 @@
 
 TestOfClass::TestOfClass() {
 	// TODO Auto-generated numstructor stub
-	cout << "numstructor called!" << endl;
+	cout << "constructor called!" << endl;
 }
 
 TestOfClass::TestOfClass(int num) {
